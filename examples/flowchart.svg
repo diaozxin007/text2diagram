@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Checkout flowchart generated with text2diagram</title>
+  <desc id="desc">A checkout flow from cart to payment and confirmation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5f3ff"/><stop offset="1" stop-color="#fdf2f8"/></linearGradient>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 8 4 0 8Z" fill="#7c3aed"/></marker>
+  </defs>
+  <rect width="720" height="420" rx="24" fill="url(#bg)"/>
+  <text x="36" y="48" fill="#18181b" font-family="Arial, sans-serif" font-size="22" font-weight="700">Checkout flow</text>
+  <text x="36" y="72" fill="#71717a" font-family="Arial, sans-serif" font-size="13">Generated from a natural-language prompt</text>
+  <g fill="none" stroke="#7c3aed" stroke-width="3" marker-end="url(#arrow)"><path d="M180 190H260"/><path d="M390 190H470"/><path d="M535 225V285"/><path d="M535 155V110H350V140"/></g>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="50" y="155" width="130" height="70" rx="16" fill="#fff" stroke="#c4b5fd" stroke-width="2"/><text x="115" y="196" fill="#27272a" font-size="16" font-weight="600">Review cart</text>
+    <rect x="260" y="145" width="130" height="90" rx="18" fill="#7c3aed"/><text x="325" y="187" fill="#fff" font-size="16" font-weight="600">Payment</text><text x="325" y="210" fill="#ddd6fe" font-size="12">Authorize card</text>
+    <path d="M535 145 600 190 535 235 470 190Z" fill="#fff" stroke="#db2777" stroke-width="2"/><text x="535" y="187" fill="#27272a" font-size="15" font-weight="600">Approved?</text>
+    <rect x="465" y="285" width="140" height="68" rx="16" fill="#fff" stroke="#86efac" stroke-width="2"/><text x="535" y="326" fill="#166534" font-size="16" font-weight="600">Confirmation</text>
+    <text x="422" y="179" fill="#7c3aed" font-size="12">submit</text><text x="548" y="270" fill="#7c3aed" font-size="12">yes</text><text x="424" y="102" fill="#7c3aed" font-size="12">retry</text>
+  </g>
+  <text x="684" y="390" text-anchor="end" fill="#a1a1aa" font-family="Arial, sans-serif" font-size="12">text2diagram</text>
+</svg>

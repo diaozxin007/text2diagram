@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">API sequence diagram generated with text2diagram</title>
+  <desc id="desc">A user signs in through an application and authentication API.</desc>
+  <rect width="720" height="420" rx="24" fill="#fafafa"/>
+  <text x="36" y="48" fill="#18181b" font-family="Arial, sans-serif" font-size="22" font-weight="700">Sign-in sequence</text>
+  <text x="36" y="72" fill="#71717a" font-family="Arial, sans-serif" font-size="13">Refined through an AI conversation</text>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g fill="#fff" stroke="#c4b5fd" stroke-width="2"><rect x="70" y="100" width="120" height="48" rx="12"/><rect x="300" y="100" width="120" height="48" rx="12"/><rect x="530" y="100" width="120" height="48" rx="12"/></g>
+    <text x="130" y="130" fill="#27272a" font-size="15" font-weight="600">User</text><text x="360" y="130" fill="#27272a" font-size="15" font-weight="600">Web app</text><text x="590" y="130" fill="#27272a" font-size="15" font-weight="600">Auth API</text>
+  </g>
+  <g stroke="#d4d4d8" stroke-width="2" stroke-dasharray="6 7"><path d="M130 148V370"/><path d="M360 148V370"/><path d="M590 148V370"/></g>
+  <g fill="none" stroke="#7c3aed" stroke-width="2.5"><path d="M130 185H350"/><path d="M360 235H580"/><path d="M590 285H370"/><path d="M360 335H140"/></g>
+  <g fill="#7c3aed"><path d="m350 185-10-6v12Z"/><path d="m580 235-10-6v12Z"/><path d="m370 285 10-6v12Z"/><path d="m140 335 10-6v12Z"/></g>
+  <g font-family="Arial, sans-serif" font-size="13" fill="#3f3f46"><text x="240" y="177" text-anchor="middle">1. Enter credentials</text><text x="475" y="227" text-anchor="middle">2. POST /session</text><text x="475" y="277" text-anchor="middle">3. Return token</text><text x="245" y="327" text-anchor="middle">4. Open dashboard</text></g>
+  <rect x="350" y="175" width="20" height="170" rx="6" fill="#ede9fe" stroke="#8b5cf6"/>
+  <rect x="580" y="225" width="20" height="70" rx="6" fill="#fce7f3" stroke="#db2777"/>
+  <text x="684" y="390" text-anchor="end" fill="#a1a1aa" font-family="Arial, sans-serif" font-size="12">text2diagram</text>
+</svg>

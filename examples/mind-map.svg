@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Product planning mind map generated with text2diagram</title>
+  <desc id="desc">A product launch mind map with audience, channels, metrics, and timeline.</desc>
+  <defs><linearGradient id="core" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7c3aed"/><stop offset="1" stop-color="#db2777"/></linearGradient></defs>
+  <rect width="720" height="420" rx="24" fill="#f8fafc"/>
+  <text x="36" y="48" fill="#18181b" font-family="Arial, sans-serif" font-size="22" font-weight="700">Product launch mind map</text>
+  <text x="36" y="72" fill="#71717a" font-family="Arial, sans-serif" font-size="13">Organized from one paragraph of text</text>
+  <g fill="none" stroke-width="3" stroke-linecap="round"><path d="M360 210C280 210 275 135 210 135" stroke="#8b5cf6"/><path d="M360 210C280 210 275 290 210 290" stroke="#6366f1"/><path d="M360 210C440 210 445 135 510 135" stroke="#db2777"/><path d="M360 210C440 210 445 290 510 290" stroke="#f97316"/></g>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="285" y="175" width="150" height="70" rx="22" fill="url(#core)"/><text x="360" y="205" fill="#fff" font-size="17" font-weight="700">Product</text><text x="360" y="227" fill="#f5d0fe" font-size="13">Launch plan</text>
+    <rect x="85" y="105" width="130" height="60" rx="16" fill="#ede9fe" stroke="#a78bfa"/><text x="150" y="140" fill="#5b21b6" font-size="15" font-weight="600">Audience</text>
+    <rect x="85" y="260" width="130" height="60" rx="16" fill="#e0e7ff" stroke="#818cf8"/><text x="150" y="295" fill="#3730a3" font-size="15" font-weight="600">Channels</text>
+    <rect x="505" y="105" width="130" height="60" rx="16" fill="#fce7f3" stroke="#f472b6"/><text x="570" y="140" fill="#9d174d" font-size="15" font-weight="600">Metrics</text>
+    <rect x="505" y="260" width="130" height="60" rx="16" fill="#ffedd5" stroke="#fb923c"/><text x="570" y="295" fill="#9a3412" font-size="15" font-weight="600">Timeline</text>
+    <g fill="#71717a" font-size="12"><text x="150" y="183">Teams · Creators</text><text x="150" y="338">SEO · Community</text><text x="570" y="183">Activation · Retention</text><text x="570" y="338">Beta · Launch</text></g>
+  </g>
+  <text x="684" y="390" text-anchor="end" fill="#a1a1aa" font-family="Arial, sans-serif" font-size="12">text2diagram</text>
+</svg>
