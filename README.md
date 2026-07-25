@@ -6,6 +6,10 @@ Turn ideas into editable diagrams by describing them in natural language or chat
 
 text2diagram can generate flowcharts, sequence diagrams, ER diagrams, mind maps, state diagrams, class diagrams, and Gantt charts. The output stays editable and can be exported as SVG, PNG, Markdown, or OPML.
 
+## Architecture article
+
+Read the engineering deep dive: [From One-Shot LLM to Multi-Turn Agent: How I Rebuilt My Text-to-Diagram Tool](https://medium.com/@diaozxin/from-one-shot-llm-to-multi-turn-agent-how-i-rebuilt-my-text-to-diagram-tool-348fe0377867).
+
 ## Examples
 
 | Flowchart | Sequence diagram | Mind map |
